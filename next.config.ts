@@ -1,9 +1,7 @@
-// next.config.ts
-const nextConfig = {
-  experimental: {
-    appDir: true, // App Router-ni yoqish
-  },
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  /* config options here */
 };
 
 export default nextConfig;
-
