@@ -30,6 +30,8 @@ import VerticalCard from "../components/vertical_card/verticalCard";
 import { useEffect, useState } from "react";
 import Tabs from "../components/tabs/tabs";
 
+
+
 import DropdownSelect from "../components/filterBar/DropdownSelect";
 
 const images1 = [
