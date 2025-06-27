@@ -1,7 +1,7 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  srcDir: 'src',
-  // boshqa sozlamalar bo‘lsa, ularni ham shu yerga qo‘shing
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  /* config options here */
 };
 
 export default nextConfig;
